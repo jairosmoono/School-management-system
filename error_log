@@ -1,0 +1,21 @@
+[26-Dec-2025 20:30:06 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/kalabotrades/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/kalabotrades/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/kalabotrades/public_html/vendor/autoload.php(22): ComposerAutoloaderInit9c491b8531eec05ba41a11d9276a5749::getLoader()
+#2 /home/kalabotrades/public_html/index.php(34): require('/home/kalabotra...')
+#3 {main}
+  thrown in /home/kalabotrades/public_html/vendor/composer/platform_check.php on line 26
+[26-Dec-2025 20:30:39 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/kalabotrades/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/kalabotrades/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/kalabotrades/public_html/vendor/autoload.php(22): ComposerAutoloaderInit9c491b8531eec05ba41a11d9276a5749::getLoader()
+#2 /home/kalabotrades/public_html/index.php(34): require('/home/kalabotra...')
+#3 {main}
+  thrown in /home/kalabotrades/public_html/vendor/composer/platform_check.php on line 26
+[26-Dec-2025 20:40:00 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/kalabotrades/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/kalabotrades/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/kalabotrades/public_html/vendor/autoload.php(22): ComposerAutoloaderInit9c491b8531eec05ba41a11d9276a5749::getLoader()
+#2 /home/kalabotrades/public_html/index.php(34): require('/home/kalabotra...')
+#3 {main}
+  thrown in /home/kalabotrades/public_html/vendor/composer/platform_check.php on line 26
